@@ -3,3 +3,4 @@ importScripts("/precache-manifest.918f0010891f20c688cbfe5b92cb9636.js", "https:/
 console.log('this',this)
 console.log('self',self)
 console.log('workbox',workbox)
+console.log('workbox.core',workbox.core)
